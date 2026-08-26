@@ -17,3 +17,4 @@ for specific tasks.
   answer grade-school math word problems by attaching LoRA adapters to its
   Query/Value attention projections and training on 200 GSM8K examples.
   Notebook: [`Fine-Tuning_TinyLlama_Math.ipynb`](./Fine-Tuning_TinyLlama_Math.ipynb)
+https://drive.google.com/file/d/1iBeaFnGjeSaFO-qi8DammLuBYN9neyLF/view?usp=sharing
